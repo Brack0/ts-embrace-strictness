@@ -1,0 +1,7 @@
+{
+  "name": "ts-strict",
+  "version": "0.1.0",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
